@@ -97,6 +97,21 @@ You can support its development by contributing through Ko-fi or PayPal. Your do
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/youneswinter)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YonesWinter)
 
+## Join the Discussion
+
+Engage with the community on the GitHub Discussions page! Whether you have questions, suggestions, or need support, this is the perfect place to connect and share.
+
+### How to Participate
+- **Ask a Question:** Need help? Post your questions and get assistance.
+- **Share Ideas:** Have suggestions? I'm eager to hear your innovative ideas.
+- **Report Bugs:** Found a problem? Let me know and help improve the tool.
+
+### Access Discussions
+Visit the [Discussions Page](https://github.com/M0r0cc4nGh0st/LinkedIn-Learning-Downloader/discussions) and start engaging today!
+
+I look forward to your contributions!
+
+
 ## Antivirus Notifications
 
 ### Why Might This Happen?
