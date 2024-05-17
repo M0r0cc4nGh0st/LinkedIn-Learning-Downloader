@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-# LinkedIn Learning Downloader
+# LinkedIn Learning Downloader [Updated V1.1]
 
 > Welcome to the introduction of the LinkedIn Learning Courses Downloader, an innovative tool designed to enhance your learning experience by enabling offline access to LinkedIn Learning courses. This powerful tool is designed for learners who seek flexibility in their educational pursuits, allowing them to access content anywhere, anytime, without the need for continuous internet connectivity.
 
@@ -13,7 +13,7 @@
 * **Installer with Enhanced Features :** The custom installer not only sets up the tool seamlessly but also enables the download of exercise files, making it a complete learning package for users who require comprehensive educational resources.
 
 ## Screenshot of the Tool
-[![ScreenShot](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/screenshot.png)](https://youneswinter.pro)
+[![ScreenShot](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/Screenshot%201.png)](https://youneswinter.pro)
 
 
 
