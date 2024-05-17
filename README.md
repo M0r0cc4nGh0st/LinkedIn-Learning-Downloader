@@ -30,6 +30,23 @@ The LinkedIn Learning Downloader is built as a standalone application using Nuit
 - Hard Disk Space: At least 100 MB free for installation and additional space for downloaded courses.
 - Internet Connection: Required for downloading courses and updates.
 
+## How to Use the Open Source Scripts
+
+To use the open-source scripts, follow these steps:
+
+1. **Install Python 3.10**:
+   - Download Python 3.10 from the [official Python website](https://www.python.org/downloads/release/python-31014/).
+   - Follow the installation instructions for your operating system.
+   - Ensure that Python is added to your PATH during the installation process.
+
+2. **Configuration**:
+   - Add your token and course link in the `config.py` file.
+
+3. **Run the Script**:
+   - Execute the script using the following command:
+     ```bash
+     python main.py
+     ```
 
 ## How to Obtain Your `li_at` Token Using EditThisCookie
 
