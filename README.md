@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-# LinkedIn Learning Downloader [Updated V1.1]
+# LinkedIn Learning Downloader [Updated V1.2]
 
 > Welcome to the introduction of the LinkedIn Learning Courses Downloader, an innovative tool designed to enhance your learning experience by enabling offline access to LinkedIn Learning courses. This powerful tool is designed for learners who seek flexibility in their educational pursuits, allowing them to access content anywhere, anytime, without the need for continuous internet connectivity.
 
@@ -13,7 +13,7 @@
 * **Installer with Enhanced Features :** The custom installer not only sets up the tool seamlessly but also enables the download of exercise files, making it a complete learning package for users who require comprehensive educational resources.
 
 ## Screenshot of the Tool
-[![ScreenShot](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/Screenshot%201.png)](https://youneswinter.pro)
+[![ScreenShot](https://private-user-images.githubusercontent.com/157702486/348448784-f159d0c7-5562-417b-b840-cc70dd1558c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4NDU1MDYsIm5iZiI6MTcyMDg0NTIwNiwicGF0aCI6Ii8xNTc3MDI0ODYvMzQ4NDQ4Nzg0LWYxNTlkMGM3LTU1NjItNDE3Yi1iODQwLWNjNzBkZDE1NThjNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxM1QwNDMzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MTJlYjA5NjgxMGJjMzU4Y2IzYjUwYTdkOGFkODAxYjM0NjkwZWI0OTk5MGI5YTI4NjJiMDgxODljODRhYmJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.MonPMbjWyPUH_527q7weaXuAoDGIdnydRpoSdClm8Zc)](https://youneswinter.pro)
 
 
 
@@ -34,8 +34,8 @@ The LinkedIn Learning Downloader is built as a standalone application using Nuit
 
 To use the open-source scripts, follow these steps:
 
-1. **Install Python 3.10**:
-   - Download Python 3.10 from the [official Python website](https://www.python.org/downloads/release/python-31014/).
+1. **Install Python 3.12**:
+   - Download Python 3.12 from the [official Python website](https://www.python.org/downloads/release/python-3124/).
    - Follow the installation instructions for your operating system.
    - Ensure that Python is added to your PATH during the installation process.
 
