@@ -1,5 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-# LinkedIn Learning Downloader [Updated V1.2]
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://youneswinter.pro)
+# LinkedIn Learning Downloader [Updated V1.2.1] [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YonesWinter)
 
 > Welcome to the introduction of the LinkedIn Learning Courses Downloader, an innovative tool designed to enhance your learning experience by enabling offline access to LinkedIn Learning courses. This powerful tool is designed for learners who seek flexibility in their educational pursuits, allowing them to access content anywhere, anytime, without the need for continuous internet connectivity.
 
@@ -11,14 +11,15 @@
 * **Concurrent Downloads :** Utilizing a ThreadPoolExecutor, the tool allows multiple courses to be downloaded simultaneously, optimizing time and system resources efficiently.
 * **Robust Error Handling and Security :** The tool is equipped with robust error handling to manage and relay issues effectively. Secure authentication via a token-based system ensures user credentials are protected.
 * **Installer with Enhanced Features :** The custom installer not only sets up the tool seamlessly but also enables the download of exercise files, making it a complete learning package for users who require comprehensive educational resources.
+> 🆕 **Freemium Model:** Now includes the ability to download a selection of courses for free if you don't have a valid token.
 
 ## Screenshot of the Tool
-[![ScreenShot](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/Screenshot154547.png)](https://youneswinter.pro)
+[![ScreenShot](https://camo.githubusercontent.com/1c49d98d38279e135a97f9f62b5fef155a0e607f0480b79d9d8b67bc3970dbb1/68747470733a2f2f796f756e657377696e7465722e70726f2f6d656469612f7374617469632f76312e322e312e706e67)](https://youneswinter.pro)
 
 
 
-## [![forthebadge](https://forthebadge.com/images/badges/platform-windows.svg)](https://youneswinter.pro)
-For now, the tool is supported only on Windows, but there will be support for other operating systems in future updates.
+## [![forthebadge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://youneswinter.pro) [![forthebadge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://youneswinter.pro)
+Currently, the tool is supported on Windows and Linux, with support for macOS planned for future updates.
 <p><a href="https://github.com/M0r0cc4nGh0st/LinkedIn-Learning-Downloader/releases/" ><img src="https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/download.png" width="300" height="100" alt="download" ></a> to download the Tool.</p>
 
 
