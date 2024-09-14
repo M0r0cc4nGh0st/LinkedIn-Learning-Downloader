@@ -110,9 +110,8 @@ This tool is perfect for students, professionals, and anyone engaged in continuo
 
 If you please, keep my creative gears oiled.
 
-You can support its development by contributing through Ko-fi or PayPal. Your donations help keep the project alive and kicking, fund new features, and maintain the high level of support. Every little bit counts!
+You can support its development by contributing through PayPal. Your donations help keep the project alive and kicking, fund new features, and maintain the high level of support. Every little bit counts!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/youneswinter)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YonesWinter)
 
 ## Join the Discussion
