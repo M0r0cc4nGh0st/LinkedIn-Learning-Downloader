@@ -1,10 +1,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://youneswinter.pro) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://youneswinter.pro)
-# LinkedIn Learning Downloader [Updated V1.2.2] [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YonesWinter)
+# LinkedIn Learning Downloader [Updated V1.2.2.1] [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YonesWinter)
 
 > Welcome to the introduction of the LinkedIn Learning Courses Downloader, an innovative tool designed to enhance your learning experience by enabling offline access to LinkedIn Learning courses. This powerful tool is designed for learners who seek flexibility in their educational pursuits, allowing them to access content anywhere, anytime, without the need for continuous internet connectivity.
 
-## Patch Update V1.2.2
-This update includes a patch for LinkedIn authentication headers to ensure compatibility with the recent changes made to LinkedIn's API. Users experiencing authentication issues should now be able to resume downloading without interruptions. If any issues persist, please contact us.
+## Patch Update V1.2.2.1
+This patch resolves an issue where downloads could get stuck at 80% when exercise files are included. If any issues persist, please contact us.
 
 ## Core Features:
 
