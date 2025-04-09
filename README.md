@@ -4,7 +4,7 @@
 > Welcome to the introduction of the LinkedIn Learning Courses Downloader, an innovative tool designed to enhance your learning experience by enabling offline access to LinkedIn Learning courses. This powerful tool is designed for learners who seek flexibility in their educational pursuits, allowing them to access content anywhere, anytime, without the need for continuous internet connectivity.
 
 ## Patch Update V1.3
-This patch resolves an issue where downloads could get stuck at 80% when exercise files are included. If any issues persist, please contact us.
+This update fixes key back-end logic and improves the reliability of server connections. It resolves previous issues that were causing instability during the course download process, ensuring smoother performance overall.
 
 ## Core Features:
 
