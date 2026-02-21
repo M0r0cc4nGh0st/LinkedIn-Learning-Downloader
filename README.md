@@ -46,7 +46,7 @@ The LinkedIn Learning Downloader is built as a standalone application. There is 
 4. **Download**: Choose your quality and click "Download". Use the **Pause**, **Resume**, or **Cancel** buttons to manage your progress.
 
 ## Demo
-[![Demonstration](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/video.png)](https://youtu.be/pjEK_JEFwJ0)
+[![Demonstration](https://raw.githubusercontent.com/Hacking4Arabs/19f49d852660fe0a079cbf95c3efb34ba88de911/main/images/video.png)](https://youtu.be/XU-fWn6ewA4)
 
 
 ## Technology Stack:
